@@ -21,6 +21,9 @@
 
 // export default Third;
 
+
+// Lecture 12 State with Class component:
+
 import React,{Component} from "react";
 
 class Third extends Component {
@@ -52,4 +55,4 @@ class Third extends Component {
 
 export default Third;
 
-// same code for updating h1 tag when i click this button using state with class component.
+// same code for updating h1 tag when I click this button using state with class component.

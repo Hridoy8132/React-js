@@ -5,7 +5,7 @@ import App from'./App';
 import First from './First'; 
 import reportWebVitals from './reportWebVitals';
 import Second from './Second-L-10';
-import Third from './L-11';
+import Third from './L-12';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
